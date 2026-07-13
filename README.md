@@ -11,3 +11,6 @@ git version 2.55.0
 v22.15.0
 Docker version 29.6.1, build 8900f1d
 ```
+
+## Toolbox
+-Homebrew, Temurin 21, IntelliJ IDEA CE, Git + gh, Postman, Node LTS, Docker Desktop
